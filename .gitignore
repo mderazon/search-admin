@@ -7,7 +7,7 @@ bin-release/
 .actionScriptProperties
 .flexProperties
 .settings/
-.project
+#.project
 
 *.class
 
